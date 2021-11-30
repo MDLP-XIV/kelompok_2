@@ -29,3 +29,13 @@
 5200411455 Aldico Yogaswara(Class Diagram)
 
 (Materi yang tersisa didiskusikan dan dibuat bersama sama)<br></br>
+
+<i>Input Output, Arsitektur Sistem, Design UI</i>
+
+5200411401 Maoren Ganesta F.K.B = Input, Output
+
+5200411420 Teofilus Figo Ananda Nicolas (Activity Diagram) = Design UI Figma
+
+5200411422 Agya Rahmani Divasasri (Sequence Diagram) = Gambar Sketsa Design UI
+
+5200411455 Aldico Yogaswara(Class Diagram) = Arsitektur Sistem
