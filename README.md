@@ -42,7 +42,7 @@
 
 <i>RAD</i>
 
-5200411401 Maoren Ganesta F.K.B = Use Case Diagram
+5200411401 Maoren Ganesta F.K.B = Use Case Diagram, Menyusun laporan
 
 5200411420 Teofilus Figo Ananda Nicolas = Pembuat program, Activity Diagram, Design UI Admin, Arsitektur sistem
 
