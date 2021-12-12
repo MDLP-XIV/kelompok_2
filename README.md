@@ -34,8 +34,19 @@
 
 5200411401 Maoren Ganesta F.K.B = Input, Output
 
-5200411420 Teofilus Figo Ananda Nicolas (Activity Diagram) = Design UI Figma
+5200411420 Teofilus Figo Ananda Nicolas = Design UI Figma
 
-5200411422 Agya Rahmani Divasasri (Sequence Diagram) = Gambar Sketsa Design UI
+5200411422 Agya Rahmani Divasasri = Gambar Sketsa Design UI
 
-5200411455 Aldico Yogaswara(Class Diagram) = Arsitektur Sistem
+5200411455 Aldico Yogaswara = Arsitektur Sistem<br></br>
+
+<i>RAD</i>
+
+5200411401 Maoren Ganesta F.K.B = Use Case Diagram
+
+5200411420 Teofilus Figo Ananda Nicolas = Pembuat program, Activity Diagram, Design UI Admin, Arsitektur sistem
+
+5200411422 Agya Rahmani Divasasri = Sequence Diagram, Design UI Pelanggan
+
+5200411455 Aldico Yogaswara = Class Diagram<br></br>
+
