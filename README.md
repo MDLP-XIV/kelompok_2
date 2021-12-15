@@ -1,4 +1,4 @@
-<i>Software Requirement System</i>
+<i>Software Requirement Specification</i>
 
 5200411401 Maoren Ganesta F.K.B = Pendahuluan, latar belakang, ruang lingkup, karakteristik user
 
