@@ -50,3 +50,12 @@
 
 5200411455 Aldico Yogaswara = Class Diagram<br></br>
 
+<i>SCRUM</i>
+
+5200411401 Maoren Ganesta F.K.B = Pembuatan product backlog
+
+5200411420 Teofilus Figo Ananda Nicolas = Memperbaiki program sebelumnya
+
+5200411422 Agya Rahmani Divasasri = User Stories, Delivery product, Menyusun Laporan
+
+5200411455 Aldico Yogaswara = Melakukan Sprint
