@@ -60,7 +60,7 @@
 
 5200411455 Aldico Yogaswara = Melakukan Sprint<br></br>
 
-<i>SCRUM</i>
+<i>Metode Agile Kanban</i>
 
 5200411401 Maoren Ganesta F.K.B = Pengertian Metode agile kanban, Tujuan Agile kanban, Tahapan kanban Board
 
