@@ -58,4 +58,14 @@
 
 5200411422 Agya Rahmani Divasasri = User Stories, Delivery product, Menyusun Laporan
 
-5200411455 Aldico Yogaswara = Melakukan Sprint
+5200411455 Aldico Yogaswara = Melakukan Sprint<br></br>
+
+<i>SCRUM</i>
+
+5200411401 Maoren Ganesta F.K.B = Pengertian Metode agile kanban, Tujuan Agile kanban, Tahapan kanban Board
+
+5200411420 Teofilus Figo Ananda Nicolas = Membuat presentasi pada Power Point
+
+5200411422 Agya Rahmani Divasasri = Fungsi metode kanban, kelebihan dan kekurangan metode agile kanban, langkah langkah penggunaan kanban, yang harus filakukan saat menggunakan kanban
+
+5200411455 Aldico Yogaswara = Conton metode agile kanban
