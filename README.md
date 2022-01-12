@@ -30,7 +30,7 @@
 
 (Materi yang tersisa didiskusikan dan dibuat bersama sama)<br></br>
 
-<i>Input Output, Arsitektur Sistem, Design UI</i>
+<i>Prototype</i>
 
 5200411401 Maoren Ganesta F.K.B = Input, Output
 
@@ -68,4 +68,15 @@
 
 5200411422 Agya Rahmani Divasasri = Fungsi metode kanban, kelebihan dan kekurangan metode agile kanban, langkah langkah penggunaan kanban, yang harus filakukan saat menggunakan kanban
 
-5200411455 Aldico Yogaswara = Conton metode agile kanban
+5200411455 Aldico Yogaswara = Conton metode agile kanban<br></br>
+
+<i>DevOps Tools Kubernetes</i>
+
+5200411401 Maoren Ganesta F.K.B = Bab 1 Pendahuluan
+
+5200411420 Teofilus Figo Ananda Nicolas = Bab 2 Pembahasan
+
+5200411422 Agya Rahmani Divasasri = Bab 3 Penggunaan Tools (Review jurnal)
+
+5200411455 Aldico Yogaswara = Bab 4 Penutup (Perbandingan) <br></br>
+
